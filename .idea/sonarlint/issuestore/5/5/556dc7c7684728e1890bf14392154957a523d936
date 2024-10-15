@@ -1,0 +1,15 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©Šù8Ëû©2J$5ca3fc19-9609-4b29-a3bf-4922af14865d
+n
+java:S1068"&Remove this unused "id" private field.(şÓî«şÿÿÿÿ8Ïû©2J$ae94af9d-4459-4050-978d-2ad03fe95f0e
+p
+java:S1068	"-Remove this unused "firstName" private field.(š„¦¿8Ïû©2J$44eda03d-8129-4762-bd00-9e975fbe7600
+t
+java:S1068
+",Remove this unused "lastName" private field.(ºàÑïúÿÿÿÿ8Ïû©2J$6c0d93c7-efe6-40e0-93c9-1ea4b63f8b56
+q
+java:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ8Ïû©2J$9b3c660e-2c0d-4427-ae7c-ffef14dfacab
+s
+java:S1068"0Remove this unused "departmentId" private field.(ˆˆÜı8Ğû©2J$abb283cb-a93d-4b22-93a1-fdc30d6a5840
+l
+java:S1068"*Remove this unused "roleId" private field.(µ˜ØO8Ğû©2J$5eeae903-a06f-494d-afa1-da582cbdb562
